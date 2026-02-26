@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Time Series on Hiya Notes</title>
+    <link>http://localhost:1313/tags/time-series/</link>
+    <description>Recent content in Time Series on Hiya Notes</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time Series Intuition</title>
+      <link>http://localhost:1313/notes/time-series-intuition/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/time-series-intuition/</guid>
+      <description>&lt;h2 id=&#34;ar1-intuition&#34;&gt;AR(1) intuition&lt;/h2&gt;
+&lt;p&gt;A simple way to think about an AR(1) process:&lt;/p&gt;
+&lt;p&gt;y_t = ρ y_{t-1} + ε_t&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;persistence comes from ρ&lt;/li&gt;
+&lt;li&gt;shock propagation depends on |ρ|&lt;/li&gt;
+&lt;li&gt;long-run variance increases with persistence&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When does AR(1) become non-stationary?&lt;/li&gt;
+&lt;li&gt;How does it differ from random walk?&amp;mdash;
+date: &amp;lsquo;2026-02-26T19:13:40+08:00&amp;rsquo;
+draft: true
+title: &amp;lsquo;Time Series Intuition&amp;rsquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>
